@@ -122,7 +122,7 @@
   <section id="galerie">
     <h2>Galerie Foto</h2>
     <div class="galerie">
-      <img src="https://imgs.search.brave.com/aKNgXgJ6CkIBDuNbWD3Q5l_jAEaDLdGEDy2KX3hH7C8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9wMi50/cnJzZi5jb20vaW1h/Z2UvZmdldC9jZi83/NzQvMC9pbWFnZXMu/dGVycmEuY29tLzIw/MjQvMDcvMjkvdm9s/ZWktKDEpLXJoZzJ5/Znh2bDloNS5qcGVn
+      <img src="https://imgs.search.brave.com/zqgHnyVGShbD0o-53TDM95G5MqHbhCL9OUyRwIwgM5A/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/b2xpbXBpYWRhdG9k/b2RpYS5jb20uYnIv/d3AtY29udGVudC91/cGxvYWRzLzIwMjAv/MDIvYnJhc2lsLWNh/bXBlYW8tb2xpbXBp/Y28tZGUtdm9sZWkt/ZW0tMTk5Mi5qcGVn
 " alt="Volei Olimpic">
       <img src="https://www.prosport.ro/wp-content/uploads/2024/08/mesaj-volei-pe-plaja-1050x1400.jpg" alt="Volei pe plajă">
       <img src="https://imgs.search.brave.com/V97IpMQQLsZ4cqKQFYMpowZCk-BZ6jf-DheunOg8cvg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vY29hY2hp/bmd2Yi5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMTYvMDUv/VVNBVi1Td2luZy1H/b29kLmpwZz9maXQ9/NjAwLDM1MCZzc2w9/MQ" alt="Lovitură de atac">
