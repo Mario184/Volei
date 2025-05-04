@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<Volei>
 <html lang="ro">
 <head>
   <meta charset="UTF-8">
@@ -77,7 +77,7 @@
 
   <header>
     <h1>Voleiul – Sportul Echipei și Al Înălțimii</h1>
-    <p>Atestat la Informatică - Realizat de [Numele Tău]</p>
+    <p>Atestat la Informatică - Realizat de [Dumitru Mario-Sebastian]</p>
   </header>
 
   <nav>
@@ -122,14 +122,15 @@
   <section id="galerie">
     <h2>Galerie Foto</h2>
     <div class="galerie">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Volleyball_Olympics_2016.jpg" alt="Volei Olimpic">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Volleyball_beach_match.jpg" alt="Volei pe plajă">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Volleyball_Player_Spike.jpg" alt="Lovitură de atac">
+      <img src="![image](https://github.com/user-attachments/assets/6bd4aa33-a013-42b8-bc2c-38a88ff85625)
+" alt="Volei Olimpic">
+      <img src="https://www.prosport.ro/wp-content/uploads/2024/08/mesaj-volei-pe-plaja-1050x1400.jpg" alt="Volei pe plajă">
+      <img src="https://imgs.search.brave.com/V97IpMQQLsZ4cqKQFYMpowZCk-BZ6jf-DheunOg8cvg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vY29hY2hp/bmd2Yi5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMTYvMDUv/VVNBVi1Td2luZy1H/b29kLmpwZz9maXQ9/NjAwLDM1MCZzc2w9/MQ" alt="Lovitură de atac">
     </div>
   </section>
 
   <footer>
-    &copy; 2025 - Atestat realizat de [Numele Tău], profesor coordonator: [Numele Profesorului]
+    &copy; 2025 - Atestat realizat de [Dumitru Mario-Sebastian], profesor coordonator: [Cojocar Horobat Luminita]
   </footer>
 
 </body>
